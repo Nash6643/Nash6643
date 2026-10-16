@@ -19,7 +19,7 @@
 
 ## 📊 GitHub Stats:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nash6643&show_icons=true&theme=tokyonight" />
+  <img src="https://vercel.app" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nash6643&theme=tokyonight" />
 </p>
 
